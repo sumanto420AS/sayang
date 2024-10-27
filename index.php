@@ -1,23 +1,1330 @@
-<?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3d\x3dw/O\x621khe\x63xfQ\x2bvtv\x42F5yWhD8v/\x2bj3ZG2UyftN/y\x413147vIsinMVLN3\x62GpMFF8EsXlmF1NqsSjK9VgTWd0RY\x438IjyF5\x63ESNj2\x43qVXPHUR\x63Fx\x63yoI\x63fwyYG1G\x626EEVZU5LIQP\x41Ypx8Nh2te0\x43MJ7\x63\x41EHRfXUfz12fDlMQjyoo\x42ddYQRDt4stqoxW\x43qwmsHjZkZdr8S\x63Xpe\x62\x626X1hUpEdPJ9\x63DpNoN\x62U/rQl\x42Uo3XRRjxMXYXSsOxSDINGTIH\x61XH\x61mT\x62xV7\x41JddQ9TkDYOL\x614Tt\x43h\x62kkKmIDVpXP\x61ZHVUFt\x43jj\x2b\x2b6g6go/pxW\x62WkiqYiZUdix2\x63ZtmkupUu/TR/uEnm16JpYzlmMoe\x62gRTn2\x2bj/qNfqNGYVLqyTXXQr\x43j6p3UgOF\x61Qi/\x62LWVYhW7VloxqeQkwq\x2b\x41Kw\x41DHdsKdMqWM0/k0gWgGQhNummN\x62wnqNzF\x61NN8IUIIuYY7\x62LF3mQyYWKU\x4269FS\x42KKTH\x42GzvfUzR\x63yWK14QEMl\x429D\x41L\x2bHoHH\x61RLLHj9T\x42w8Pxip\x41ydDvTYV6RK\x42ZE2\x41NR\x62Z\x4142ZrxM\x43wlHp33h\x42UMqI\x42qSolEgmd1\x62h5HKKrYo6y\x41MqU3EgLd\x62LVstvJXYHu78D\x42K2rLgM6QjsX\x41I4Mq6\x62\x414Yo03N\x42\x2bZotUiEexY5OQOfqQR/hyk\x63smFV0\x42YHR1O6\x62\x41fGQ3HFQJG\x42pKq450oNGMeZ4T\x42OF0J\x63\x41FneWrTxNKx\x41ILHmgprHv\x42MjZ4HJFIFii10REy\x63EJ49onJ0pIpX1gtvp0x\x2bPil\x426qvrXOqMo3t60RHl7E73drWN022\x62XLIx1x2TfLs21Q7pzFWL7o/0\x62hN\x437p\x2bWVXoz1hMXok5\x43dsUozr\x43ZuQL7F64qQnLEy\x63peuL05\x43hMXok5\x43dsUozFepQsTssfOlDq6idZNLtJp\x621qseEOvqTH\x62fItGwVr\x41UZRp7ZnhYqfIGQ6\x632ZIkVW\x43\x62\x42WW2viNDhszSELsG8\x43r\x41jQKvMG\x42\x61IW\x41VGgEuFLiNIxRNnqtfhOWE9\x63h22F64\x610zF\x62\x62XojrRPXotdxOMTqYyS\x41LsG4\x43rw\x42Y\x63\x419TFn4/shMQEXj2oG68lmFGQgR\x2bS\x626upOPjynE\x63n68\x43j\x63xUj\x63\x2bSROPjWvTMzLIRKhu70sPkw7hiDF8e5Pw5/\x63K2xDus4FvmngqXu\x62wMV\x42YP\x2bjq\x2bLhId2h\x41Lxswohqq\x61wNVrUVkRre5wGT8UotlStdZ6GXmRrSLqZ\x62HPmVl\x61/KmJ1gHL\x612rLN51lm8\x61\x42TelgJv\x61wkVN4yqm87GUXmXG\x61H5m\x61mp2uM1M4PzJztfF6R7oHXu2hlqd4g\x62Lu41iresw\x61HKo2hXud4mngukYX\x43m\x63XlqgtNnVlJnVpoXnmru\x43rhHXHmjq0kjq0GmTtDH\x63\x62w\x42/W\x631jFX/Q\x421O\x63wk\x42x71Yx\x43sY1PwrEDuqUD\x42fNRhXu\x63w\x42fW4oHL\x632jLO5xln8w\x63pq6OTjFgj\x43PDSqwLGOSfx3gdqmTUFdihf/rfwjhPDMVuiZKX3G/7htUL8v9\x62G65T\x41eN6R\x61ThsR3NYoK3P2qtz2\x2bR\x61xDQesWgsGh1\x43uo4OimM\x41pzpP1Qqsv55412Ny/9ywdzwv3kI0WGvh62Sh5mkGxgktT\x2bMz\x61\x41p9kx\x61Gy\x41zqpJFl\x62gL\x43l\x63Pe6FdwT\x61LlSDHEPRq/00/\x2bwYMX\x62t\x41WqjtS14\x43h3G63\x63IeTYfwLQkZ\x43si\x42Ip\x41NDZOj\x61\x42qt2y4KpIvM6Lq2O\x42XZ6e\x425J\x43fXxKSlyPn\x611SwZK1K0/SSLUzHjfX1Vp\x2bJIrW9Hggrpo2ENf\x41yv3\x42it8HofoynkuiSmo\x43Qw2dZg6vgVFRLz\x41G3mG\x428oIZLtes\x41ro/QGwvY\x61YH\x41Y76kyFwox8hI/\x42GznhEIZGKD\x42jtFTIFKTKzVhM8DKmMFJyIIZdJZ5SN88\x62\x2b0y0gsFTVSKWjTvKJ7O\x41wEYjlp\x42YYI\x41Y6\x43Sgl\x41j\x43fsvZuX2xo\x2b0hto23wes\x41k1oiFo6mMdIvqSp\x62lXVdQh2oM\x61DF00UgiJKpEN9yn\x63z2QNh\x2b\x62z3QDKkZi6Kdp\x42mzYktIlmq1\x430\x61z\x2bRd0vju\x41P\x62SYuZZ3ikqmJvJpF\x61RdRj\x2be0I2h\x43UzHV\x61H\x623\x61t0QXY\x42y9\x41My\x432rg\x42r4kZR\x61RZZ\x61eeSKvn6UwXly\x41KfVIDmtL1j\x63uMxi1J\x42jF0DM6kpP\x41Zn\x43Nuph22WuymYwQq\x2bU0X\x61XmYQxnpdUmfYI\x611gNwJh\x420KQZpsdkG\x42\x2bNH\x615PY\x63\x62Pki\x62E43MolpQwq\x43EkE3mF\x428RFotLT\x42\x42Rp\x432uG\x428SFotNTRhs\x6263pS2\x2bHo47R6EIWTyoeXXN/\x62EJUH\x621\x610XOPiFIoZIZ7D\x41\x41zXgGGUQ\x2bu6hFzmDN\x63GEsd\x42GoGLYLNhiZzgWGDG32\x41Z4og\x62SHFzk\x42tMEKmND6Yxs/v\x42\x61LqqLoJKkKik/xTDuE\x2b\x61LTxnYY1qii6V32mp5Yvq7JM\x43Ps\x42pleD\x41VsSosloM3E9zGhmUF\x62t\x41ynF6ZXq\x2b3g1HjpWvh\x63W\x42tYDsVw\x42/\x613nHs\x62ff6gtpPTFNIR\x4186x7jnWNj21\x62\x42/2sr1\x42LSp3w\x61\x627Ozsl\x61F\x41w\x61VXm\x2bw1rjQQUzME36pF6eHhEFqhSKe3R\x62o\x61wKlZo\x42VLr2LF0lQQyM\x61hPT\x42j\x62DKOJIoUNGgl\x61tk\x42TOt\x43QnI\x62\x42Y1\x43VqRvKE\x2bgEx8\x61KX063RePY6no8dU\x2bSGpHjngDYV51\x623\x2b\x62Yn4t8dp\x41mg00EV4nmD1\x624F\x2bmhM428O2jmX22vJyd40vK3Kq5fML5nKXO4WgfNvq8HhHr0yd4YjSm7W2pz17\x41//N8qT1\x43Zxer\x62VRiFj3x\x61lHPufTQWsSnre0JWfdseo6N\x63\x62oie3DJu4uW5h1EtjV/H8ZwuZfm1Z2sT3yJ\x43S\x42kOn\x6334O1t\x62Z\x41M\x41dhEx5\x43\x414g40d8t7ygIFv6N9pD7WTtdsKF38UiQhnWGfe\x42UM1Vx1\x62\x63eXrzrv\x2b6gHoi\x429hL5Y6\x62\x41\x63Wx1j\x41OQjVy\x43Xv\x436VkYj9o09d6H12H2J\x42xRrPUfYU5UxgVv3\x42FJqvXQZf0i/ilLUV1WSI1w1pQJV14StYfqhuZGuKs\x439\x2b9eL0Fdm\x41zwwQgJx8gjVroYg8\x41yGZruWEvfL6U5D\x41nTLUI50zE5qOqLTWfXsI\x61\x43\x41\x62jNGgmpf\x2b/v6/U\x41pl\x2b65hP94H\x2b/\x43YzQzHdxh\x62dn6HZ0t\x63ju3SXZG0gTOZJ8nvn\x61nmv0Iixt1KTS5/yVmYZE4n/tQW41S9UV1Sodm\x62\x43OfN75\x62\x425Pwx/\x2bkDj7\x639hnM51R3l8D7f\x62\x62H7zKQ1P49dMkRk\x43UjkEW1\x63\x43OO4Gz9Nm8V0goHHurZo5vr/fDeFGi7WvMQxv3Y4nl/n/1Zu\x43L7EZ4Wng7gS\x63ZRDX1H6IK\x2bHkE9oSW\x63v\x41mziZpKRhI3/2mJ6\x2b8KNprY\x63uWdK9XwsKQD5zm/izR3T\x41xO\x63\x42\x61E8W\x2b\x62G0m55NJSdEdwPzqs\x43yHjm\x2beEVvD\x427X4dhqDt9nQv7PW0yfq\x418mdY\x623PHRO\x41dkwdOmGw\x63y\x42WnQ\x41mO/I\x2b/mvzSMQV2rss1\x63vNEPK89D7dnD7\x63Pq2vZ\x62Mq\x41gTeVHGOwNHDpjOIVv6w3J8OXYZU6yZFMLnzrw\x436WK8\x42U5/PP4/Ux1xDR/eXF\x42FS7dHiO6DdhFqH3IRk\x62X3HG4wgMLNk/EE\x2b\x61U1W7FyVH\x2bDdx4w\x429\x41\x63YqrJ48\x411\x43ilOPxfWZz1QW\x63nORVj\x43LZ\x63\x2b8l0W8n\x2bsploUNZF2l9qFsJsdLQ546gWwuLGKzg\x43NLJ\x61Rf\x42DQ4rEp0kwpdRmnhs\x43dZrHI\x424hKqY502KESYUVKT8WfmDG7G\x62Y1dn9\x62QG4\x625I\x63YnwJWtW\x63Qg7zi\x62Y6wtnw\x634XJnvUF\x41Jx2qoVUK5\x62Q5SP35JrEjJjlQ8vG\x61\x4366JQy6UFhGvHH2wH\x61jPSE18mF26ZIe6wYWY\x61We2Kw\x41dWYu7Gy\x63wmQoM4yR\x43myp/PwLhODH1\x61dJ\x2bjGEolhEJQXtykYZk\x63T77I\x639S6\x61vroLpG4tQM/fMs6TP\x62d\x61Vwo\x63\x414nZ\x412WlSx7Nm\x61eENpR863fZQf9mSIdhVSgsIfi79NmOd1nLUt04QF\x63Of2K09eoiH6HqTsWvl\x43vnUE\x61leyD/QhD4jIKTGolJ\x41SNgZykvI\x410DVIkf\x42yVjDNh\x62mvtMYeuOkqOGOxZVNl6hK\x2bK\x416\x43QRqq\x42K7M5\x62p\x2bz\x2b\x41qE7\x419r\x62m\x43xE\x41\x41KklpErkqkdMYkDfUDx\x41rDX\x41FR9RsM\x41tj4i1w\x61\x61sqGpDghSEssrYg\x619ktS\x62hL\x2bj8UqQVlglI\x43\x61MH7ETrKFJ58vX0Uh\x42D4IGxx\x62TQDilx\x43lJw4nhg\x61UJdJLpiIi5W0yUmgiQS/P\x43xE\x2bDggVJJQ2TSqd0mwnP\x43hUO3M\x424\x42Hl7HoSZfu\x41\x6149u\x62gLFd5\x42u3uTex\x42eGkd1lOkOPsjT0nfM\x41mMgu\x41lxpLsLWQIOQII3kuTQqDzMJs\x43\x43Uxs\x42khI8T8mwRN5Hhl0yhZ\x43D7\x43R\x61HKPTg\x41ZOUgu4kYoIUoLVjD4D\x41GIF\x61FQjtdW\x2bgJ\x2bEMEEOQE\x42prFi\x41eDtd8JjoYgNLjHLIg\x43jxDuy\x41\x43\x43gjsSUQHgV\x41\x41Z\x62\x615EOrRojU\x615IT4igm3HlsPKJRYGeEew\x62k\x438vzwuRHKPH\x2blI2oMThE6dFOS3Es\x62UyS/pioEwpLTSeZgg6YHIDIiVE7KRmEmxJ\x63i\x2b8U48n4y\x2bP8iGGlW3GHn21J2Mre5\x63W\x63uTHuqiv\x63iUg\x43HQ3HPYspkUENWNWgjGF\x62\x43z0q33w8Q\x41\x42g1gi4Y\x62tq7XdtD\x2biOwx\x43XY96q\x41xh2DH\x2b8O\x62\x41D48zsvn\x429Lgeqi5x7\x42z\x410DJYF\x610kNv6\x63\x41Px11rxLi6HmNkq\x2btu2EXIJ0n\x63n53SYGXxE7PFQx3J98gLkH4D/MiO\x42\x2blHe/xsVnYN\x63/\x61X6ejy4k2I9k\x62O\x61f/EHSx\x43MuLw\x2bttr\x4200DPuDesZoVLuXVIvH3f0S4GSM4m2RxUkwGWf0mlWJtiqoOVl0\x41z\x43YOqSPDwPSTnr3qEUv6Jv4LD1\x61UoRe019XRo5\x2bdETY82I02pZ84eyOx9E\x2b3N/\x62Jemv\x62FNNmvlsrYN7FR9TJLK80VhPRLdrsQoKTHhxhkIh\x2bKP\x43MJiMLDO5lI6W\x611Oh0zU\x43txvUzMT\x43L\x61izlt\x63OL\x43nQ\x438P16nYiZ5UshhJ\x62U\x41g6SkTzd\x61J8V0\x613\x61Sg2dIrxMhT9\x41re\x41s9Eg\x619sDUDqQlpdf5j\x2bT7kp\x62PJT1\x62KKw7i\x43\x62Ph1\x42lmG8Nh4NF9g\x2b\x42dTYFu2hv7u8F\x42r/2Rrv0oxefSsdJ\x42Sql6UzSQKIxg\x2bVtSoVVFpq\x43sw\x42v\x62j2UI749gwXlp\x2bZOlr5UEk\x2b\x62ND9zt617qt06S0jViKwnZTGQgSzky\x41on3o7qQVsgL\x43zzyRe/ijf9wluG5Y/0L05QN\x43iqK3mmeL\x42vDyl\x4164/Rzp\x435\x63OWl\x41EMM11n\x63oIJP1\x2bLO\x43586VZGe9enX\x61kOPLT\x61\x2bNfde6/d2MfOrwgtqppVQlQZnzz2Rq\x43\x2b\x2bwK8yxnUjvOk\x62Zkjh\x43u86wtd7D7j9Q\x42u\x42pGlkZ\x62qGMQF4h\x42\x63dw6is8KU\x411N\x2bm\x62JGNZmhYqV/vdZV\x62rrpQW\x63Ukj\x62GkkUji\x61WMKyQdQYd\x42LmUZZ\x2byk/kFee0v\x61Fm6SR262Wnf1XLoIQ6e84ods\x61rfJ\x2bQE\x42\x61ss6TNM\x618uE\x6226ud0R76S4\x427rf9/\x41kZY7yFqf44\x41vF7VlkmL4uS\x631WOz\x62RmgsP\x631vDesorLOneueVnKwjisQuEH\x2b\x433UOs\x41igouuXTOywX4pEohVs\x62yINXrmYNR3WIt4WEYNikvj\x41xKz\x41rXQ9ztUMG\x63VEoQwUiTXp4\x63ZP8vJXPwH3zghF\x42\x2b5Lmimr\x63\x61NYpv1GRf3S\x61eGQ/Jn\x41t/uVXm9lS1T7nPl3dSRTVHKJ80\x2buYXN24omG\x61D4\x41Lz3QG5\x41GeTEu\x61J/7\x63\x41dNiz\x43En5FW5uspkpmyHRRSkds8TN7twVRZueuPY5ZXMWimr1t7L3p8si2yYur\x42ylPtLmv2Xh\x627YlGFs\x630M0HDv4qrnY\x62d\x62X\x62QZVZ\x2bhP4QZ2nY\x435L3uye3\x61Up2\x42ehfuz1Tl1vnSRtVP183\x624li\x2bkn\x41VypnsJLrdO\x2bqpd79z\x41s\x2bw3yxO1vex2NXM9qvfd7J\x62e09PPn\x6189TT7zn8si4o/u\x2b8tTJ7TNF68VHimnV2/\x43\x2bf/q\x2bn/enXwn\x61EL9vd0PXtt7\x62/jjP98JH\x636PH\x61UXt/9P295xXP7D27\x63Te70Pvf34rpe\x63PL8\x62u\x2b16UOfu\x2bozzV5UfV\x616hJq\x62P\x2buRq9l\x62FuHe49f7Z7mv73Zqnvr2o/PxtHeyV7Xf32XY6Jeyzy3LXf94dT\x61Xtq/vWHo\x62jfDnL17T8X4OPNREHjrL7n5lJ9s\x63QZ0jXrQIzH4ixMiVvdXVpM69rmEKlwSyiJHnMsyJFu2tEIt4Li\x42t\x41qQqev\x618yddpV1ZYS\x63/h\x42IfIEuE3KHr6EoyjjRZ961uOOR3JfRvntzUxD\x63\x62UGtp\x62GnSKg5\x42oLJKJ\x419Y0PfdpUTPr\x63SMXO\x62MetvnTG\x41G69YTUuv\x41\x41R\x62R\x43Nx\x43KXdx5\x632fkDY\x42tLRPksWMzRV8\x62mN\x42M22QziO\x43hmlRxnQz4iHI\x41HshDwrJe7jL\x2bG6dekvxX0oleTfIM4rN\x2b\x43Stg\x43jd2S\x62krddl1ind8LtfPfwTXhR7e8Sf8FHe\x2bu7d2uXgUXd\x43if553f\x62/N2/gD\x2bj07ok\x61vTQ6\x62P/yxne2xJYwFXTue\x2bZMx9h1drDo0d4lFF\x63Qj\x41XEqhPxJ\x42ySM3loVF\x2bO7ex8wT\x619OoDSixt6W\x2bHd\x423eR\x2bLnI9W752\x43Gp5Nxu6MEKnIZiIMEpVPSi\x2bsw7y9h2ElZV042lpq\x61lK\x626tXTFJiSMfwQgnh\x61iFNqIukxJ\x62J9jwth\x42\x2bh1y4G8TiD2eZgQ\x43R\x63\x41HpQSWy1DP5y\x42e9xIF8Zh0/\x63wgvuskjp7Hw\x43\x63\x43W5uXDoJVKj\x41v\x415ZZn\x61xm0UQ6t\x61RYXdoY\x2bdp6mjTw036LtYuq9hR9\x42fhQ/gVG\x2blqYT2ldfKuiQfmJ\x6149Y5jO58\x62H\x63\x61Toyj\x2bYjgspPE\x2by46\x437e599v80WIYvngps97F\x41N\x42EXyr1dy\x62\x439\x42YRen\x41\x63IN\x42fSV\x62tsD\x63eTVInk1eujN4INS\x61RiYmmWEpit\x61KlhqpueH\x2bK\x2bsV1kkoEO1\x61\x61vYvOmWLPeqj\x61p\x42OohOLrguUgySP\x63v\x2b\x2bX0D4nY\x63KFTZLU6DjXg\x63dx/O\x61\x42dFWOXK972Sz3\x41\x2bp\x2bmDDinv\x42PD\x2boqldZuvyn5E\x62sGRUoxfyxu4g\x62Ye\x42EusIgg149pKFT/\x63DT\x42oPY\x41o8FJMFLYJL38\x4247QnFqr\x61\x4299SIw2k2qrpTWYWE38DZDgqnZEf/HUyZDNSs7iEHWgE0wvRY\x63kKvevPJMH\x63eqYm5s\x62w0l/6G\x2bDm1q2\x415m1WK2wH2x\x43lF\x2bI80Q\x2bm\x61ZG35Zp4FeYepLQUzV\x43FK\x626g\x417M\x62\x63G8860Qh6HR1dS\x2b\x61GxOYeqv03E8\x63wE5\x62VlVExN3\x63US3Yrz\x41Z64zE\x61\x2bu\x41keOkyld64muE2seYlgx\x42Uy3i7TwtR\x61L6UMMSTQvML0XsQjW/gfl3hiD\x42ukKZz\x2b4pqqMgfJUrXrMVXHO2ZYKX5tFmPLf9EMQ\x63RwDo\x630OLPF3ElQz\x43oLL5xmhIKpUN4umFVSyO8jfVIX\x41s4MuJhY\x61SgM\x2bqIZWloKmkFtxQul3RJiYYWK\x62LI3t4iw\x61RuHXuZpU83VqpOtEgFlQU\x42lnm7nFTKqhpZnmmtooZoFy\x61\x61oopZ7lHD\x61fRgQsOR1rFF\x62VfXyY9hUyp4I/iQPlpGty2xf7Ixt6WdqdhdrWf\x43\x63wMNjX\x63eZQ3nTNq4\x413tfmivu\x41n3Xh84SG0ZyndorLeYJRTJ8\x43ssxW\x61h4ZOHTv5nWlJY\x43nl1ew4Wulf6\x63\x632DLxYHYoggo6HU5MuI9zYY/07ueVtVtussxOOFI48SHHjoZngY\x63\x63\x625\x638EOPegG7H\x61zpGusNKsPXw\x62yyLu3Sxf\x629vl2elN2H3jrm2QvF3R\x62v2\x43kL2fpt\x41M\x43\x634vNF9dHt9\x437RV87dLtqvoWV3S\x62f38\x62R/1Iwf7W\x617dLt9Z/XePRvD3SXv8\x43TM3/t78\x43zOyRoXY0\x42sH\x41DwtrYO/xgD\x627/LhH42gL\x418\x413\x2b0\x6155\x2b7fvp22tI2o52vZPegZX5g7/3DPwtW\x614Z\x2bD81t4Q3VS99f/dvVuNdIu9K2\x2bdw5hmd0Du12SfV/8t42r/Dd5/Lvd\x42D9d/\x2bu\x2b\x2bZ3iSRF6m9\x41zh\x43d3ui\x42w3K3Zrd8\x2bXxw3q3fDgFVs72HX\x62P3f/7P2muE5WP2\x2bN7\x43f7e2lUj7TkGVs72/hwK3Z\x62F7uNERx\x625emtI7x7mtR\x2b27\x42w1T2m3\x61\x62/wQs72e59\x61\x43\x2bNlRm/3OEWZwS3H\x2bzf\x61g\x61fyH8dTH\x63Lwz8\x625t3tjH/dw1j8/s\x62\x43vf4V3i1E46\x62v7\x42Xf7eW\x42e\x2b07tmOzd\x2b/7nwP\x63n//q\x62FW5f\x2b2u32iT17/vX\x61DWzerv/vLZO\x2bd/13Kz\x43L7LKedvv9eLx33\x629t/tIi3\x629tD9Ev13e3d9vvw3Vo4LgEiDNmru\x633pT1Qz\x2bZ\x61phLMEkH1Klg7j0/6\x619IEHLhzzj/v\x61iLLtI\x43FZVDL\x61dp1Z\x42K2ZZWV5IhzuqsVi/6jqODMIMH4WQOl1X1rZM\x61OUGv5n6\x42pSM4Iy9yG7KF0jjS\x62JOnk0qfVlqyJE\x2bOYPxLJMxfgPhKpkM\x2bnmpPuUg\x42Msgw\x43U8\x42Isq\x43LtllfulMgmzPUM/ThL7LyH\x41eE\x41NpKkH\x2bpZ\x41yt\x43yVWXX\x434fqm/l\x417\x61l3\x41J904pHkKNMVzURTWKZ\x62\x41WL5Ki3h5IrwevYdxs\x63H7\x41pjl\x42\x42D2Rs\x43\x411viuS2teX4I9P\x62\x42w\x61\x41zHgww9jt\x61Dlqokmg\x2b7\x61Xq9K3gPF0V\x62F\x43g//6nzGuNwMkYigjLuQ\x42I\x41dUy1NRnoEo729tqPmod\x61zKsXD0H\x61FtFT3TL\x42ly\x2b6rfkVq\x2bZqGii7VvzwoX\x62TsdXYSuJP\x61\x41\x41UHfGENMl2O2r6x\x63gW\x41oRnq\x43hJp\x62itom\x2bUL1\x626lOL4i5Z9fq\x42Uo9OWQpHtVHzM\x61\x625T\x42\x616zKUnhZLKM\x63x0MW7Il1/SrNRLf9tt74RyrVYqqY\x2be2p6Pzvv3VZ7Y1SVFdx\x63dtL1\x631F1mHdUjV8Vz0ZXZ\x41wdTTUYn\x61Kmms\x62THdqlq27N909S17fKomvpMtV3SU\x61fq4dSqp6\x41Vfpx9W\x42MoFvPjhKjDnS0k0pz7V0OyeoUe\x43T\x63MNDQRQ\x424G8Kd\x61qUE5SO1s7nkZPofL6L706xKu2e26OVMjoWpMgIH\x43K4Wt/n\x41vUuMdjTFm3\x6348\x41jl0qhh25/WiSUZ\x612\x2bz\x2bjz/osHMn4Wuini83tOWRwEEX\x2b9\x62SF4h9\x63k0vXJsxKzu8RQwl\x2bMsxHjQs\x61OtJmfOvnZR6PE2JoXIYl0mEQYzY\x624D\x42\x43zx1WVUgiZsMIn2Vo0y\x41vWZK/9zy9Zr0\x43\x62vEXK\x42yfiHj2iHztR0Iuor1f4DG\x6289z7k\x61o\x63\x41Ffusm2P\x42W1\x63YttmGzt558Gm5omD\x2bRLHDMW\x41WGU7dKDPx\x43IXNGupgq\x41FFyn5gIg/ft8\x2bOHy\x62kXr53tF5mL/\x43Xz7ieEVJEunzev\x610ilVdxxJonj\x42x8GvNDrx\x42Ov314y5TYv\x61LNoVRZT5fU1\x61zg/ul6ORWOym6\x62xkLSPq\x63o\x63pDVJW9hvX2\x61MU\x63rtxIQwrT3qfE75\x43x\x42\x61ssS\x63\x42lmsRuJxW3gqT\x42y\x42S9\x42jQg8EUJp0SONm\x2bjuf\x62kwr8jO70X9e57gxvzOEGw\x43Vvyqomj\x63/udvw/ZDtjrDJL\x42IuL3vP31T9fZJfV\x2b/UF3xtDUD\x41vXOIr\x2brs43nQSXZIKmjX0PLo0JtsT90kisK\x63eijZ6z\x43fIIv2txxNNQ\x41xOO7L2nU7e3H3PDQk06\x434iYFU4w\x62oOzkX\x62s7v29m7ZU7pYJ\x62g6sz\x61hE8S\x63T\x42dNNVfEukr\x43ko66\x63\x619\x41zyX28n\x42iym5xOZ78YDppNg3\x42\x43dfInq\x42\x432ivysWFn\x61y0m\x41qDJj1\x616IEjIWSEN8R1\x61ELDStm\x63mjOXsJPuHVrKUHrVj6lJ9f/STpWUWZYKTvfy\x61YoWQRnup5\x41wNo1\x42pZ/\x43T45u2Q\x63sKDOYxpMzrxjnop3LRIiRtI\x415qJp\x63M\x41w2V3\x43q4XQdgwEQY\x410rZQu7JtKy\x63r5\x62OF5\x42eSSyv\x43lPeg\x42/mX\x635vQSJRFrEM0DfIWQmDlzGQ0z\x61PJwhS5\x61Zy/kx/JXfSNg\x6198Res\x61L65KNW9\x43WV3t\x2bkR/5H3x1dx3jwDE6rOjm\x42P\x63Y\x43zzMvK5FhXSk3wxlFvLmUqFl\x61gVph\x2bs8Vxmi98TF\x2bUee2p\x62tinJt1zdJqXVDvJ8fiQKkil\x2bxl9rzfL\x42YEWnFU\x41zmft\x41g4wv1uEP3Rhn\x2bLxT//ZeW7ptI\x633Z44sy\x2b5dFvqH\x63EH\x2bQ4exfI\x2bknOk\x43\x41W866x8Q\x42N6x\x43dkZlth1Nns6v\x43Olyl\x61ZX8/pidDl1\x61q2m\x620kSS3Z5f6KW/\x42ZNxfEN0HHf\x63wS\x43\x2bGuH1Ehe4x\x42/iFr4x1\x63sfyYgXZuvl0kJvIRn7ELQ1ktuj\x42/iFfhZSqsPpt\x63J4PjD99U\x438MkjkFOw\x2bXXQwVjEZIQSpm\x41ESVijVIgTfs2mz2xY\x63Xitq\x2b6\x2b\x41oqtY95y\x43\x43\x41r8O1Z/mtfx\x6276yT2ljroi/TsvSDokjTu/rpV/Fd6fG4nYVJiWePmwTj7rz5y1eTY\x62NwTrwdtf1x5Jd67V9npiDVHMW\x63tDKTnrFI\x43KD1uht\x6213MLvxXRjr\x2bNGW0PRdp3wl/Zo\x42rJH6h8o/X8Fk\x42LUMW\x41nLrIqgvH\x43df\x2bkWD56TwGmxg565EOWx\x61/0yi/ZmOhLt1Trpv\x41tOMTp\x62fY\x42L\x42ZD16UOy63NxFs3D7gnOsph7RX/JuGD2tv4sk\x63Um\x43k\x43t\x63rlk\x62/xiDP\x436pZJS3H6VHN8zEn\x2b\x432NFt\x63w\x2bpuSmkLRP3\x43\x42\x62g\x62teiXRe/i1WYwgke3YI7H\x63emmKYh8EGx8\x414wH/xgIz\x41P\x42S\x2bP\x41mK5OG46G\x41\x41eDUOr0djhj\x42vtnVxp\x42exPW05qKH/SI1\x2beYX3R4gX\x61i\x43eWY9xlmgTo0\x63Z\x43iTZwMvv8VUV\x2bo89rRq\x61\x61n1STUqKL0\x61RYlP2HhzXD\x62kGQ85mrS8h0gi\x2bP9i02v6kzWMznpi9LjkR6qx7T0vJoRm\x2bz5Qi\x42qfXP3/\x61\x639U/463y3\x62wGh28ejzSSP3\x41pysN6oHgh5v74g\x43ntMf0NfpzPtN7o/L4nmx\x2bD59\x43w/uSzNpHxn8fLvt1pyv5\x431PwMtHw/146GO3Hg\x2b4Z2HZWXX4Ez9f7ev4sj\x63E6Fnd\x417\x420\x41e7KGwfO5g2NfyvWeoL\x2brVHxWwGH\x62\x622is/4\x627W2G83yDZ7/X3iDerVH7\x43g\x62\x611xt13Vl\x627GjfJ7uv1iDZDy\x2blH62gri/\x611xv5ym\x61v\x62u\x41szNPu\x61QO\x2b1X\x41vhHz9\x413xWYPDtgvW77H1U/RxfwVL\x62hR3rugRvh\x62uD/8KNWKY0LXdt0Mw/oLOPg/S0idnK9yRvRZdqeoLP6\x62jSG2\x42JX78/rsrSZ3uj5\x4213/93\x2b2jtpH\x42u2v9fWk9WmIDS4S2mkY\x63/ieRfFdJE\x2bzG9\x62mKtNQP2hfXxIgXpydO/\x411dIQnR\x63GR\x2bN4g2mv/u3wtNdIm9wt9\x62uOvR\x62Qu\x43n2wtho8Wj1xXkn64I0\x2bxP47Jg/7WD\x2b/4DmdeWeP\x2bDEM\x2bpDu43OD/GNX/G7t5tkTS4zr1Rqkj\x42dH/hU6lziiDPxYyqnvxpg\x41ykY637wOeQx\x427d5enu9\x42/Rnf5x7fgzO\x2biDGtIm2gw\x412nFd4yU\x62ZhI2KzM1RWdWtyvQwdLeG\x61kuXHwi\x41X\x42mS/Q\x41udDkrd2kYoXH8uNtNu/s15H6V/Qu0\x634\x2bD\x43EP\x61\x41Uqjdwk4UT\x61SX\x63L3g1sPqnhxz\x62j\x61\x413uITn\x41vjwo4SJlsF/FMZ0L\x62yU3k\x635VG2OwrLQg4FnO\x61\x61\x63\x61HWdXmtS\x42/\x2bVp/mt\x41MyL9PFVUU4G3mnU/1\x41O3wNfSzx\x612Zx5P79\x63whxf6urIDTKmw/\x63\x417YkGSIl\x2b9Zsvijj\x2bNLST46wdk23\x412F35J\x62yfnRXuNEre3sodDEqzU44tONDw8Qi2d7G9O\x43/2vE256wV4U8P2\x2bgVyD44vGq\x41Ju2GEG6GiLjOEu\x62\x61wD8E24ivZ0xgO6V0\x41EPlyTuxgO8duT\x43W0mnu49ZOWDrHu5D2Ey4RId\x6284uRssqvFd\x635LufjM\x43\x42OgRL\x2b7f4rVeHo\x433L\x2b6ig\x42\x61Ex28GD8uO3LLIwxmYjSqV88\x43uJPi\x43Y4XmP\x2bojp04jG\x4236GpYEJXt\x610\x63OU1Z\x429ngh\x63NDr3D/4\x43FYnhtRqq5v908eeJiNe/\x2bH81u1HN0u07yULR/yx\x42\x2bUwyItpR\x63I\x41D62VIv\x63t\x2b\x61zH8\x41y\x414Lpv\x437\x426Uzj\x42STtf3s5m\x61Knx\x41k6uT\x2bP\x2b9sNi1nDKHO6//vfPnZZtJIoMZ\x41HqF\x42zG8x6Nds\x62KUP59m4T\x62Lz\x62Fif7o\x424deRKEy5XsHDWMx89izLK3\x2bx9D7r6e\x2bDF4PS48U8lFDKL\x2b\x2bh\x41oH5u00tHo/6pvg/mlYO04q1EiuLJ5LL/rWypl\x42D0iH4LtjdrH\x627IGV8hMXzprhJs8Okdxk\x418m\x41Y\x41HjosYR2wHn\x43Gml68DGysg\x614OI\x2bfyMi\x41\x62\x2bSxqQM\x42fK92ZFRIhOsehlq12ntR\x63rdfiuYHjtI\x42e\x63\x2bGs5SwD2slvw/qEHm\x41\x42y28zfOXdi6uhUt97mN565e8\x6311/rz9sFhIriLfieueyI4hxzKQO9e\x42LO\x43180zvo\x61zKW2vYmVPf4S5\x61K6NsKGuWRTZsLi4KSUmpXq9Z6RH9FXnR4Oy\x2bGW\x63Z8x6PZ\x42ddukiY9nR4\x41\x43SdVeW\x41QtDXZNNW\x41Xl98p\x637q\x42Xp1F2OqFMTV1\x42dIniGD\x61rFLni9FJo2Tj8DTjk31LZ8tHjPmN3tO\x43Ms\x63eQX0JtO7LRORm8\x63LSon7s\x61\x43ftlt7PVW\x41vOqO\x62vEnP\x410dZhtfTGw6XQ71tFG\x62SKH/d\x62kVFl\x62j47WgeDD7g\x43zFk0\x63\x62X5/Mhx\x2b\x2bQP7KVKt0PFm1J\x2bImflLGGr\x43IVU4\x42ZuP8fq0S8Ym9VEy\x2bz\x63u\x61iixQWjok8s1\x62NVmu7rJygzLnw1jQxi2\x627m\x42eLLU3wHR53u4zy7enGO9DfP3inl6d\x621OSOgdDOsysOQz\x62vwydfWid\x62U\x2boienHfvjG4O\x63\x633v4gH4OTstq3su94eZN\x63RgtRx6SSXs4\x2beiuh1\x61Zfv\x413j1I\x61/\x43UREtu8qPFSZvyisr\x2bNeK8gnQUdspRE0\x61OrGjlnmyJV0n/wL5ZNnV5\x62\x42PVtun\x427mihww2N4K0k3\x63\x6121yy\x62UV4tK/SZ\x621qYyd1zx\x63PSK93d\x618W5rrXGxLv40yeMh81guHj0uhZihlX2wGXx\x2brezi\x63q\x63dd\x41Gv1\x61P4s\x63T1XPr4jhY1GRoww6w7y\x42owfmir1Glul6Z280d1pY3M0GRDMhvshOMR\x631PDjtn5g\x43FxYhHQuYWLWPs6lttzs8DK3i4NruF\x61u9RnGyX84OFEKn\x2b\x2bMW6VS5WXMZYDP3zwTx\x61i6uX\x2bdXP3iZ23\x2b\x612\x2bq\x63zlUfmM97D\x2berLf\x633jfN3yQ9X0\x61F\x63FeGX\x62gf4tqWkxFJeo\x63Jk\x62WYlR\x43\x62OqkfFmOq\x62HHGvMuovNW78\x63w\x2b15dL4uot9\x61iTh1J\x43wW1GTstVll5JXm3IfMIN1\x42tYv\x62jZ\x2bnJtq5vJ\x6371o\x617F\x63RIpg65NqkVQ\x63uI6D4\x41Vx01ynEuIHEql\x622OEeZqsQttK40pdVeFsLMj4\x41Wim\x62RH\x42TNl5sQIEqWX\x63DVWmshGqryFf7Siw\x6121j9UJzMGvNxEy1zjf9Knr4v\x2bZ\x62FsXrVutYo4S1K\x63ufwL99dIt6V6q1T\x61QWo\x2bGevLfpy1UsSp7Ekno0T9u\x62iqMnUXEWuW\x42TKnlXwqqDgGNrhWqqMIXee2\x61\x42/fxhKZUy26K1kF\x43Xt2uwDEUzZRgh7D\x424zOQ9o\x42dK\x43r\x61zMnVKXheV\x63r3kIZuNukqq\x2b\x430E9R23UEq9VkjP9yWE9mTqswu\x63\x43l\x412FuR7uP5ER\x62hw7sNQTZP9pM0\x433\x63IYsl2kZqsk3MuR\x43dGIWGt\x417VWDMzrK\x43LzqhMjEMDV\x41H/qTmyoOv\x42DpImdDRGR\x62jitT\x4126ul4lvKw6y89Fm/ifJRFo29DUUsfoTpFm\x63pO\x411SUX\x41Q4il\x63D\x42gW\x42d\x41tVhOStSxVRZOWu\x4330m1PjLmvFNpG4jxWm\x41tuz\x2bonXxo8K3vk\x43\x42d7Qylti\x63uRknktE09GNde2\x42iSVz\x43wjH4f84Zvv\x2bx3DIviR\x63FLVslE\x61N3454SfP5\x41HHuH\x2b0usX3L2p6y\x63l1\x42lUHmZdl6k8oX0WtZZ4EY\x2bIwDZQQVMjXIU\x62\x639uLqX\x61\x61rn65LE\x42ZF\x2bKP/\x41YsfPer711spv3dYxtMJnX\x43g3\x62KO61Fx0y\x41eVHq\x4291Gs5pdIntFpOthwFWdZDh2F3iXghxtqS/F1kFoXqskv5\x62pH4U\x43itkk6P\x41k/jwiU6Sf8\x61\x63wM5\x2bj\x41Hz6WnKTI473\x43Qy\x41Nz5EpmqSdY\x410WtIOWTtFQi9sFGJ\x61qx\x42VeWyhG2RZtxr\x62SPI19rVVpXoVn16n1ENPGP\x63OzEGnlhHEEU\x41\x62d\x615OuuGSqEqq910\x418V9gH1SZ\x63\x62NT\x62FK9ru\x61\x61LNPYkkDfG8jioofmz\x431uK5STKJ\x63W6zVvfhI1\x43p\x43sO1jIhqRr\x42\x43sk\x619ek2iP/Np7WitUyO4\x43sMvOKKGvn4w1zoTuEGx\x41\x61q\x2b74X4O\x42\x61\x415yhF\x42\x2bG\x62Q\x62j\x63JSIYF\x42Dnfr4vEvWlwYFf/fL\x41eqtkppMW9EXd\x43nrDq\x43jmGf6MqT\x63NMgurl\x621dik5i\x62S\x2bzF5S5XviV\x2bSu/\x42/P7G348GRySf/yy0GyZjkDeKKg12mqF9\x61nYpzPfrJu\x63rnypuVsQ\x414\x630Jjkv/SfMVu\x43Mfz6foOSrUNPRo\x2b\x62J3kVS\x62O2f2eUg\x42JVI7n\x42ZTjQYs1LWqlg/\x63x\x2bLDHe\x63gt3n1dwM3UylFh\x63l50RY\x4289r5QrDufu\x630\x43j1/TjmqL8r4gy5\x625\x62p/N\x41Od\x62Nd\x42\x41tuj48G8KZfx7g5ZPFnO9J\x2bpsU\x417jE\x617fFDe\x61\x41ggwWL6Rg6EhTtkIS03kKY0p3j\x63RtfQuK\x42VdEO2Qr\x63HPP\x42/nDUW3VS\x63h7xlKixu\x2bLpQwTZlJ8O8Mk5TLTivyO4o9SiMT\x43rvTJHRd6slZd3\x2bflhz\x62MEt5Weyx7f8pH8gz3d3jP5gnfxLe7d61zrfzw5P1UMHhlOoL\x2bqS\x61u\x61v7SrWV4pLrq\x62f02l0\x41u\x41m0v\x63SMM1178KXH7N8NYm\x627e\x2b5r9u1GDp9ge9WlErM\x62\x43EkR1O0ljSQ\x430OY\x62dF8mTj7Vfxsu9NgkpdF\x61tyfNNk0\x616WHuFqM0tFtEfxx85HrP3He9Uf7t7oeDSrNWkxxDi1ZvpxtpKEPgtUez\x61SKHjnpFn9Srv4jzGZxfXvt9377PSU\x425\x62D4HDpItL3\x62hZXOUtZJjfd/6dD91vqvM4//J\x62\x2b7wzj5\x63gD\x62u\x623Vkye\x2b\x42PvUIVnMz\x41HNrS4\x63OfqYe\x428uX4xdnNJT2UG\x63LJG8\x610Ztd\x42uvrMu8O68T86l7PWpM2pHyi\x2by5H\x62vrv\x2b\x63jfeL\x2bH/86z2M7kv\x63vhOY5K7mO\x63V9H8h\x61K570T\x42i\x61EsO\x2bnT/uPRqG0UT/JfGiwHD\x2bOUYqt9S7t1YL/M7F2v58Te\x2bsTRN9UrOzkFuqt/2F\x61fDr4z5xwlnDRMs54kHn27ku7FPtK32uPsdoQzz19Gvnv79N3L3xOxfG4tMWYZk1ivgoeoYqMhHSf\x63\x41sSY\x62q\x63slzGirIZ9yyi9F2h6EORs\x43tGSN6\x617L\x41NgUD\x62qRWoGDyz/Q3VQGGj\x6231Hqhw\x61yJPU\x42noojyf\x62YuwM3Wp8f\x2biFpEo7\x63x\x42W3otnHDzMqDI6N\x2bd6qpDVJG4jUQ/jKRX\x42j5wS1\x41d29s3SZJGiTMYH\x61\x2b48r\x41Rs8w0UOVIIluR\x41Hn5wkS\x2b7M\x2b3uJ\x63LfkRLVvFgY/\x2b\x41izj9u5VeGY3QT\x2bPxHrzzJWvGg\x4378nF0ydFTL2xe0\x628lUzwGyGRNwSwE49TVwifsLME6i5X8Syi\x43Jm7nmTqsptzySq7qIfYs58Gr4oYd1Uhsj\x42\x2b\x2bLfItnxLQ\x42WMh4H3yR7\x61sennx161RzL2ehT8\x61Ldi\x63V\x42h\x625v\x6153k\x42YiRUidEPo047/wojk\x2b\x62m2\x63MvZqzKkV\x61IV2U0\x41dUJpPF2HFoLD\x42sZeosdwwqMUKSEk\x431hNpmNpeMh2L9rHnRnSz\x610d\x611t4\x421FH8jG6\x42W6PV7DpEl\x63IdIH5rVuhm0hlJ9f2omyKdr9rTqj2ETp\x41lQPQz\x2bwPmQduH6X/VfwX6oNlF\x61lK60g/3KJq\x61\x6124/J0k\x61oPSz\x2b/64ph3\x2bW4rRonKsZ\x61q6HoH\x430NJ04qe\x62\x2b\x428q2W\x42iWrNQMm\x41NooT\x41u\x412dL\x43dPNv0QRq\x42\x62GOSto08\x63\x63EKqVqHZikqxdr\x63ph4XT\x63WRs\x61YzVzq\x41ODQXhtdkq\x61vLztTxjEM\x2b5Q181H5vHUtilVN6RlXRtRhQ\x431OR0kdILpiZIydW19qEVWfs7Qwun1spTJmquqGqPMLTx\x42\x62qe\x43LfxXY\x63f/X\x61XXxXLUD5k6XyEfoRjsVHN\x6325s\x62TpWGdL2InjWUd1RihF7f\x43XVX0YL/KQErey41\x63HK2DSmi90ylPl2IW7Z7VGwFXKshGeQ7w38Dy6FZYeT\x636HtN\x61IK\x62RhS51uV\x62Xit\x61\x62oim\x62zqqr7GiJm\x41dtE1dGpNIh\x61Qe7\x434qnL/4rLz7RTz2opr09eNo5ZX7HWo/yzu7JTX5ztoy46s6rW56Ni\x2bO8e\x41UR\x41qDXlLe56gH2R/R8o4DPPzTr1p\x425GO\x2b4t6qRte5Zfo37lwxEFNP1FTRzJSxuUP0fQ4PshJQ\x62D4HsqGXLk\x41\x62ZZxXNthS8UGGMh\x63YTN\x43iPJr11F9v7Vtsw4\x41lnr\x43Dnv\x42\x41Yq\x62hUU1Tpdypw2\x62WSME0Y3/m\x634zWVNqO\x2b2h\x63t7WETNxgyQiW1DYZeSSzSglek5mjY\x61nLv5mp4UWo\x6102K/HxNFkrD\x41/UnO1\x41h\x61wfLDyruK\x42iEWzKFnzNuwL5\x42D\x42K6ht0\x41\x42\x43XLkzu\x63wTX\x43nPrUjTr\x42gWPi2Hd\x2b\x63\x43PkUg/E\x41nIoXfK855\x43q\x2bi6T47xZQQ8fV5R4P4\x6105Let\x43ZKo\x62iE3OdL\x2bfsszmKniq\x63elr80X\x42nwF12mrzqtU\x43rkxKUnHGqEMRQu\x63LU15KS\x63O\x62wldUL\x43\x61O\x63\x42hL5IwmZTs\x42909\x62Z\x41X\x42r\x2bhlGygG\x62\x617uGwZf\x42u\x62\x41j\x62R7\x41w/YU1\x41MQKeHz0\x428FF\x61mk\x41dE6\x42K\x42\x62ZUzqEqYo\x61zK4g\x42hS7qjwiqYZU4EDjdx6JjR0N\x42PQrZlP3hUEsWHRFHfD0Yr\x62\x42mXwKx9Y\x2blnvkFI21FUEZ4SGzgYOXKHM2Z\x62YUR4FM\x61OViiO4dn\x431heR\x2b9lYsJ\x2bXlJTkgjW\x63sNWnj\x420G8k551OqZW/skS2\x62iqH4\x61QqPhZI1KotyqS\x429Q0uZLNE\x41Rfn\x42P1EMzoh\x620ZKDM\x43GHFxnVktyLEqXLi511\x41tnq\x61\x61D6kOmOGqYdjTMpTFhuKoOxK\x42\x41TZ9i6I\x42p98Ggn\x2bGHHP\x639TEOSWXHVMHJED4/T1\x43\x43UP1TVITHe8jPqdg\x61pz2MuMp/hS8\x43oYoNw\x613HwwmgxOR1Vfj\x61e1KWVH\x42q5O5G\x63Kp\x43tvKyhJ5\x61itDM\x61Y\x42JJQvFVZnJoEdxwkD0KY8ofZW7gwKJYUYN9WZ\x41NNuQ06\x426O\x2b\x42IoguKe4ql5/1Ow4TStVxgOdZK\x4116\x63\x61Nk8\x63o\x42\x41g5\x42pZGwnTz\x2bw\x42\x431eNGON10\x41phmz\x43ejfVIIFugLhyWQ7\x42g/Glg/Png\x43y15RMUt\x42Sw66N\x42NH398yVRKMeDI\x41pY9PO7y\x42\x41w8\x42/f\x2bzLDFMZN4JHgUEKy\x41/Gwl9\x424KQonkzgQfwMIG8lQJf3HRwdHdQdLe6No\x42gQxnuiFK\x63xPsxu\x41W7Ee1oZHOk4d8P\x2bYkDw7IVV2VKk\x43oxUMwElHv1\x43o\x63ud\x43\x619ezGD8mg11fkhmmLMU\x630QU\x41KKx8\x43D9r\x42QxJzMSM\x43X89/\x41\x42\x43vE47gUoPmuJM0ytDYwH/l\x42O\x61gflx1MHY\x43ugRQqYfQDdsFQ4o0\x435e\x41ODiuJlmMIu2Q56vUgIRT9g9DTi\x42K\x42\x2b\x62Fk\x42rZK\x41DT\x63N\x42gd0Lr\x635gXY\x61R8\x2bgYJepM4\x636/\x41\x43/42\x418lWQ8rYoMoD\x633Hr0\x63jRw\x62FwtZLMIZTIH9w6Uy\x62Qk09SO9iwKSnNJrV\x42zF1NhVsnv2jkS\x63r\x2bl1qoPz\x43j\x6246xMWh\x63fEP0OrGd6f\x2b2DD\x2bZ1Pf\x2bilzu8ZKe\x2b2lZ\x2b83U\x2b8jve15O5U72729W9f/5z3T5z\x61y\x2bXf275e\x2b\x63wq\x43xvl1M0e4pOdjDG\x42d5Gq9d\x2b0QXeY\x41DkePuRt\x63kV33Rh5Qx/XXH/JO/uT4Do\x63zje\x42\x41NvIUGj07HYgdPXLj6d1k5jQSq\x623m7roLo\x41gPVLkf3GyLiQ\x63S\x43M\x2bp\x42LKly\x61ydenKh\x42e5RJ/N\x2bsXn/pM\x63jiWn34L8MyxX\x438SOzD64i\x43s0mmNW\x63\x42wedIHu\x2bIRJsD\x42446fFkziJk\x2bT\x41Oex\x43t\x42YWNrlL\x42jSZ\x2bithEEzVQHtzGxWOEG5/k5JoIoNrs\x61xiIt\x2bYrKXIqQQfFmJ\x63Wr\x63q\x61Z\x42OzlHtz\x41wt4yfMST2rU5\x611YIIR6Q\x62VM\x43EgTIrWgL/\x63\x41eve\x41pkyU/jq16GwME2g\x2bVMVNLOj\x62\x42HLwl\x63xUng2NL\x41XE8LNEJ\x62G9G\x2bGD1\x41XnMJy\x2bRw\x61g8YqUhzmF6\x61\x2bw3XNV\x63FMr\x63lwdovpT3u\x42Kg1TfI\x42k\x62Dnv\x42G7sNfDMpSmmx7\x62D5\x43\x61Vpk5Wl9tdp\x2bqXt\x43mj\x62quro5wq\x41M\x421Wt3k3Zin6\x41\x2b1D7GQOZmVZlWVWTVn17ZKq\x61dJWW\x63\x2bSmO\x61u\x612irZ305VKp\x2bS0l\x42X\x2bpDili3RLFJ\x63ulu6L\x2b6P\x2blW52peGuT\x42z3i8l\x43uvhiM7\x61ZhiJUuwq55ZL\x420gU2kMosXnrQd7psnnqoKn\x63/P\x41T61\x429\x6153NDqO\x616h20k6\x61\x41Kt0hW\x62iPk4mlWlY7ZrqRZV/s8qisSTO5\x43gKH\x62z9LD/\x43DTKXPuyWuE\x43zdQIqm3ZohwLnl\x63f\x41dpV74LssWhUtlsRq8ykYI\x630Z\x43S\x61k\x42qzNZzQfzJ2IG\x63lUSwJE8yrFQ4Vs\x2bf\x43QpMW1y10mJ06NZlZYx\x614P\x61tt\x63WtwSYkeJ\x62fL40mV49\x61w9U1Kr3xrHK\x43jIwNz1oMrOIo\x63O/E6Snymqy\x42eGLr\x63H4u009eWQU/guiM\x2bzU/\x629M5l45XWGGJ3V8DoLl84jQlsVIWfNLWx\x43QIuXQVEmHzLRdHLzV9xZgjfuxe77ZeX\x41NvLnuH\x2bmu3equn1IPZrIWmhPf0ZWRhW9Lyi2ed\x42WU\x62d5qsps\x63D3FpYoXT5\x63\x42soQ\x2b6n4dNlMgzTyiv\x41ILrqLKUJwuuvGmJZOrpNJ\x42Sfh\x2bSZ0ER0QY\x2bMOJHn9M3ZPI0Ywm\x62TqIm5W\x43x1M3uOVV\x43rRvsxRZKU4\x61515WWrXL/ssTod5xsdFUWFuPiKNNm\x2bvwV1O3Spp\x61h0\x61Wj\x61\x43m1eeg1s0jS66JO1zgYkTg1mPKoSfN\x43zqex9gFSNjTTP21TFKsHLMkij7U4ThWmOU7\x63NloYx3QxWu\x2bXvNkD4g\x43e/lXRISv6HQOK4dITpgeI9/YK\x62fXmu5\x41hl\x2bh8/Qv1\x42OFWplEL7iGQngUx\x2bQO\x41iHog2gGZZpD\x62w8ejzFyPO7kO08Mrsk2Sd2lZDhTywP\x41\x43V8Ehn9\x61kQ3YomlF5lZJVE8KTgo\x41uZn\x62ORgG3kJ/1YU2eFUoV6rXqxWDH\x41Q7wXMM\x41\x2b6\x61iJd17w7XN8Oo\x4181j37JUT037Jx\x2b\x62wZog4e\x63z1zOwxP0WtE\x41jjd6hw4QE8\x62u\x614POUKTHnnDD\x63HrqQj3FSp8UjwoGm\x2bRER2TdfodU3oJTXzSV1yjPlGqkmkWUPLuNq\x62/g1MDQnw\x63SgdW2zFfL3r7r4Twr\x43nFo87MigyuYMqEWmqhqZ3miloqYoFxPr\x2bpwzGiod4DjTREq2VmSpR\x61hidv\x2b\x42LiD7SWql\x62ijH\x63Om8R\x41Q/j0\x42gkF5dG07iM\x425\x61\x42DVMQzdiNu083t4ej\x43ZNFsEWE1ES5lIQT7uwm6Sok\x61DDXJU\x42qYh8DeIh3yTsMh6\x42EW\x41zKQjG\x42YH5hs9M\x63klVGhX1\x43UlFO\x63\x42Ee\x63N6ONh\x63ytErTI41wmu\x63fXI\x2bxH9YO\x63R35j8oepYpqNH5TrXLu3diJ8dhLkgqN\x63KTJEhmE\x62QtyuE\x2b\x62r85dssLuTZxnXFMiPl76\x2bv\x42JL\x43svej\x61Gj6RgL7fj8TzOWJT4nurtlIEh\x62Hd\x62I\x2bhEdUwh42LYiDpgumj0sOGIO9ok\x42XLNfitsg9z9jX8\x41DNUZtsXL1E83QfG9U\x42SEKRfxvW3M0ly6xF93\x62/8e\x63ypp/5ZsoXIgi4wnUUG90lxM6otlGSeEQ39MmikQ\x41UJSO\x2bgzZW\x41XukkFo49ZX\x43QfK\x63DN\x2bgjIQe3xrx\x42j75954wn\x42e7\x42\x63jtzZ\x41Fq0ddgKP4FK0N/YPGqF3jw0FJ\x63k\x42YkKs5f\x2bYm5RF\x43xlpPjXNx\x41D\x63oTHM\x63M\x41jOOhk/KzeMqOGuEOQn\x41SjeSegYSe\x43Ym5\x63Q8yE\x63uXG\x63z\x42sLNouqUVVOioiS49e\x2bxDP/gDfe4njv40DP\x2bkDN4xXf64\x62nfmWpU3Wm\x41\x41/ldT/Onw3g\x63rqL\x2b\x2bY\x41xF\x2bN85Z9Id\x42FwpXH\x2bhgd\x62NfY\x62GP\x43gmJ4KfhKGeemRF0HsPHrE\x638h\x2bsT\x43WpYU2IeQlvNe/hsy1K4TKPo\x2bl4s\x41ZN\x43\x43\x62tX56s3oyM0HdXoPZjP1zviRNFE0w\x42qXlqOTVOKleEhsnHxe\x42\x43PrOKy\x2bTIlUzRSJKdqJT\x43v\x43XPpFzuW\x2bRgwj15\x43\x42Ff9rH/n9v/1p\x623vSkKusEt7\x63u\x41Q\x2bV\x63J\x42n\x6350f3o\x42m2L2j4o/yu6\x61MXwYTxzDruSSKe5\x61um5M8S3rHvdv\x2bwrS/9D5Yqvt7Xh7rT/5Eez9f0u1i/N7qN\x61P885Pd6Pd4nPJ3\x2b60f8pqUn\x42\x41/d90\x41f/ETD\x63/H\x42muudPpZjpgYYLwRg4IQLo\x63\x625vyosK\x61GsFFx\x41R5NDry7\x425\x2bdFm\x43EkYRTFev8iX\x41NTK0T\x42Z\x63K5\x61JnxNQuhr6jJGUylVFyjFuVS0\x42oXsQwFG5HGz7Om77wJ6kijZIh\x41jt/D\x42KV\x62\x42d4M\x2bQ2ZOKHjto\x42kG\x636\x43HoN\x42koM0kkXW5rgS\x2bqUj0FJ7oNmVf\x41\x62\x430H\x63PFwIT7xXYXXGqnzR3SwFfIpvn\x2be\x43\x61Od\x61mdHz\x63Wm/\x2bse\x61U\x43eMtXgyK\x419DNvLTdx34GMmguk\x42gzf\x41Gs\x42JxwQl31\x2b\x42x5n\x427EOm5TZfWKzeE1wJlR7J\x62vx8\x42JteWKOjEpmHQ0YHOZf9\x61VlN\x42\x2bLd9QZzlz7n\x62JqV\x63sIs2oXy2\x42w4Ud\x419\x42thF2EJx\x41om7oELr74xJeWRFh6GOGn/ng\x61\x41KwHmUxQm9XL\x6170NV\x61QdETSrp/qyY0p\x6252\x63\x2bVI4e18Qg/6Xmsex3sN4D\x63xd4\x42\x42/k9IZG9k\x63vUwl\x62OltRqVOtmWQzlDZgLZV4/8m\x411mJ0sL2\x61578g\x41ylzTS9734jw2END6jqfnMTNT4e\x42\x42MeZqu5\x41r\x2bOeNENHOufJeHuWvrz9TtruVSVIhrnp346Nkh5x6WuMkTSMGw9KKq1mlY3YwRseqhgTRw\x2bMMgKWERWkkmiQH8h\x4233zNm\x63KU\x43D4/DplR\x43\x63\x63Ysy\x2bh\x2b9OIPnWRkS6\x62UwMVu4\x61G89N9sWwqM\x43QS1O9\x63S5iQ\x61l4vjGg2\x43M\x62IZ\x2b\x43OLqMt\x622UyiJW\x62OmDhf9nRUVxWSL1\x411/85Q\x61Y5WtP1Q2MDFrqiQy\x41tIF\x62UVQNmJKe2dEsXHxIVeq7w54/Rn/PT\x61RF5\x61\x42Q\x41k83/8ktGhNVMZrZ\x2bEW69xtWUKtyMIn9xuU\x43SDDp7\x61Q\x61uo\x61n6/yS\x2bq8/ZqoermW\x2bD3XgwpZ9vGfqKt931pq37nqST/e1p1Rwr\x434Tlg8ieUtXF1n0MonEfwdGhezSUqiq72fMLTw\x43dlRVgSuMr9F4\x2bxzJiZyehXT0gO2E\x41V3jUJHNNWMpPiMQEkVTh0z8v0pWio8rE\x62/wzokMDhhxtrwj\x61FRz\x42HiLd\x635tnQiiy40KL\x2bh\x2bTwNxE1kx\x42VpUK7zSs\x63\x63kMPhZ60QII9u\x41/\x2buL8zYLP\x2b0Y\x41vZdtEwHXHxDj1j\x41Xv\x41Lxp\x62Rn9iqr\x2bTfEgOMG5vMDD\x633YIXz0ImXRfqIeMdgDD\x43hU\x625Q\x63I/\x419k3FoPmrhW\x435rTIUH3eGW6M5x\x429yWVV1\x43ULwRPTWigu9QsSi/\x62KkIHIqyteq1pn4XSVi9x\x428\x41Nt6IVmZZM\x63LxzJuRLgg2U2iTj2LG/\x43Zq\x43\x43kopn5L10RWqyE\x43zwr\x43YQzQJwdN6ER17SzzkzKiw4\x413MURN1w0rKUGH1\x43h\x63l\x62qOp2hFmyhzPEoRkzKoXlDZR4G\x61g9\x61z\x41he6l\x42Dki5sHhJ9q2qmLtQKWSkEprmqPjITP9lJ\x63qOFQ/\x429\x43uGgMDkwrjgHEEueqTJ0nONwQVgmie1SkGQ\x63GP33\x41rPGttlwe3TI7zQ1k\x41td/JHuFo\x41l91\x43o\x41NH9\x61\x63N\x2b9e5\x61lNL3XrwNhLIy0SPZE1e4rGP66G\x62x2\x62H8dtjINyVr42iQkVHQwQqZg4hdQe1Kw\x63Os5PqEkqGz\x43\x63SFjPeH\x41iKt\x43NO9i\x634\x42D5TUmjU9Y\x63FNVRXZL3gzk\x630Hzmn\x427kO2DFYjYSZZrnNn4LJZkkVkLQ0LWsEzJm\x42kRLf9SJEzTiiTPJ4Xsyy\x6162rjteYKZY6TVxNYdPJSlkf4/\x42UI5h\x62rviIdh3SH1XqpSFGSSkmeKpe1/hwukJh9\x42\x2bJU\x61yNS7rRGjL\x630o\x61QFeZVj1zhhRpRm\x2bzoPmsDz2j\x61nmHitUDi\x2bk0VUT/QHDUqWpmEDZjUGMzhE\x41vywVWizwoPS\x2bsLfW\x2bnr0hmdd1GK\x43MSGl9gYDM0z0Xd\x41UHGqNW\x63\x61VKiWT\x42MKRtoQrjOhwt\x41fT/ISn\x41lPf\x61eqS2hYghF/6\x63giI7g4IKS\x61fF\x43rLYPoe\x43\x42h\x61DHG48Q\x62mHYvyxW45oL6doHt\x2bWR8KEEL\x61W\x42M\x41IfYt\x43Q\x2byXnWXy8\x62INoTXh/ZkxWqLRq\x61\x61RqFn2uZrpsJML1\x43xHwDgsIzX38qLHD5oRV\x43X1JR0RuvtYLiQdIOdPk\x41PzHEWseO6MVropWq\x61xoG16pvDZgJ6L\x41uNq1MqOFQS1LFdk7TEwP9\x62\x61nqigp\x42oP/ePL\x43\x2bILnNzNmzieozShpZEhf\x622ezMVDPeNu0WUi0Mez5D8PIzR9P/VqyV\x61tFJXV\x43mru\x615hip\x63Gu0z4KQQIlTjkjpZp\x62\x61EK2vi\x61jX1tlroOxG1qiID\x2bzzeNz8DhsIJYFTyOK\x43L0HgKzODZL193HDlZ\x42YL0QvQ\x43KmZdwS0kYEk\x63G\x61\x42xqoGwHY\x62\x63Y\x42HDxhp5E4\x2bdkhqY\x63mEZzqhG5RipkIQPs\x43TrS\x42fDj3DQ\x41xiHVIjYtuqEhlEZmsINH7T\x41Wn9iu\x43KZriZ8u0RKjuDUzUZH5RtqKjZ0IL3QK\x43Vg41su\x41LwQfM6\x62VNTgy\x42SRq\x42fHwDSOx\x416\x41QiS\x43uyVOWDJ9UUE6WqYIWqi4N\x43GGmFPhF\x62\x43i\x2bE37hmZRmd7X9T6FSWgFwYU\x61i3ggHPkj\x41Q\x42YDgTGYQw\x42Vh01K9\x2btgYTT0JUE1KvTkqRr\x42Ml\x2bnms\x61fhn\x43L7RvEF3Sk6jURFVGENhoH\x2b/Mjze1\x41Q/\x41K8FYGOzXQZjQvY2\x61YYe2oNL3XWiVzMi\x43S\x42rsP\x62UzMkTeM4me5K\x429G/eQdj/IH\x61FZlrpRy1EHKFh3S4m7xVyoUNQ98\x62\x2bF5O1le67QQ1U0YP9YkoVlIJ1SpQM3Xo\x2bNXGxvsHFG\x42OoVkmL4oOeUwE\x41WR4\x61z\x62q\x436YvXxIxh\x2bZG8U\x63tr5tuZt\x2bU1NzXqphrWW6j\x61hEv4gX\x2b2LWrJ1\x62Yd8lzP\x6139Ohno64pwVH6/P//nDrr/syw6rDyzjiDMulu9ZKGyu4/\x42nx6vT\x61\x61IK\x43HxW\x43nenzRRIKkhl\x41KkEisRG0DiJpV\x2bg8Q\x62KGJpL0gMkw\x2bNVnqeV\x42DtgM\x62SNjrILtW8wDxuHmP\x42F4yXoe6uV442SQLOjT93pREhUqH\x43M05PLOyXo\x63JsTiqVm8WvNN93jK0iSXWG8Hd\x43/S\x61/\x616qt\x61Ih\x61q2Wqn8GssSoufK15/PY\x4183GX4HTuh2H7owIsIL9VFNWMl032mZuDRR4Hyiv94WH1pzN\x636\x2bdTj6D\x42D\x41u\x43PEY\x43JdJy2ujY\x425ro1HRipKR\x63kUJZuXW\x42w6xR2xvM45Z\x63ex1\x62x6ipGOw\x2b\x2bw\x410FXw6z3y0fpHG\x61\x61FRDKiSVX1S\x6375\x410gwrXmN/\x42mK8dxU\x2bi8nNdNG8/HKw9\x42w\x42QD\x2b7i\x2bg0\x62\x62u\x42jOe8Qt\x439lV\x42y0pz\x630Ifxi2jKoF2\x61u554L8VUo\x2b\x61uSspMnGE7\x2buPH\x42\x618FQ\x43suORO\x41\x63Z\x428LT\x2bk\x63KMYgfFZkfnZv8HhGimF2rrqZYw\x43\x61vt4/epx/f78/Oq0l\x61ZVEe6Uv\x42d0z38zjINP0Jm\x636EF9yLg\x61/99tp3RpP\x63/zXe5eH\x63wzP949P48DP\x2b8ZDzor3nj4l\x41omSxP61H/le/NGxN5mv6U11lwgWm2tmj\x2bd\x2b9Y//6v3h2\x63NE8ZfOoe9fpI\x41O\x41kfFujjJpG\x2bXQLPKhkSL53F6\x61R4QDHts\x62e\x63yW/39NH2l\x43gH93PSHR\x2bRk\x2bEEhVsL9Ti//\x630kNwd2uM\x43pfXq\x62wTD/kVTwm01JT\x62d/fqTR31H3\x2bqD867\x438//76Nnx9VW0wir\x2b/45\x62ktWO\x2b9xOO8h5w43\x63/DMqSeD//8217\x42TfUnd19HPP4/uWPHeW8ffKhzf\x2bsv7DlrOP6zLOk9jz8hDP\x2b\x2b\x43TQzvf7v3V6xPL\x2b\x2bFFxUqPP8tfu50zf/E3zn6/xP3/\x2bdn8dH/yend6LXvd8V7wnl/Ov/82x0IS7rt96JDTO8\x614\x2b\x2bO46DO9xX\x62gPP8\x616\x63UH6zzu8ynn9m\x61\x43i547Xf/sGt79\x62n2hOEf633\x2bDHk6Pv42Lx\x2bfGRf\x63RtNGf\x2bN\x61/Drm8ZdT\x2b7Jw\x638F\x61\x2b5\x43\x63DSJP/\x2buye3E\x63YHF\x63pdM3x9gt\x62dptd8g\x2bKX3KLGQ8\x633EwNgr394y\x43GLfQi\x61O\x63\x43HJyIM\x2bP\x430j\x2bI/31udMOlpp9\x43YHGHgHF\x61q\x61gqMR9Piog4F\x630itlU2292gOo5PEEsE0iDh6rm2Lrm6rr2qtH\x62Fz4xzS\x41vgOgTYnjJpfo\x62222V\x61\x61\x63\x61O1t6\x2bmVH8\x63X47\x420\x43tPIGk\x62\x61I\x633ul5\x42/0GQkn2omggwIUi10r\x61k4eZ0KIZeD/\x63nFd\x61YIYqdgLd93dOt\x2bkTms\x410sLjywLDzqDXWVDO7u\x62XhvnEx5ROex\x61qsO/vQS\x435mNpM8j8DXPP8Rq\x63Jkw2vRuRPhxJnQmlVWD0WS\x42Kq\x2bYeLxr\x63wT\x2ber6\x410X\x61F3e9UyfvhXKKTdO0JnSymvgm56nW2szvDw\x2bTfLPrU8\x2b1\x623\x63x0r2e1un\x635Tzv8fux3ONNPf6DKjrO7733Okgv1XkjXdIqeXR/L779r7X\x2b7\x63\x61\x42fqd\x6309yR/f92us5fO/wDnewp/dkxd3yX/\x61/3Hex8P\x62nzN5hz/9\x2bdjvm6x/kgv5\x2bnrT5M54vePVlj9WppHmgu947Wp2T\x2bV7e4h23tnvfeuer5e9q6j87k3\x6305Xvf9d\x61fhpk85PKXf\x63\x2b1j3Np91r2P\x61eo\x2bNPhpM9K0ze\x63\x43y/z7wvOhH7kLRFVkEWRWr\x42R\x2bS7s8\x42S4JYJIMgEmY3Fg\x41eDR8ggYe\x63wklxjFMQhxw\x42X\x62\x41\x42\x42kR\x61JIgjwK\x41gsps\x63vDo5fx\x42\x43g2DD0k4o59\x42J5jSSGmRHjHMGr\x41/7NkL0j\x2bjheJ\x43NJ30IheXhk\x63W\x426\x431sx7\x41uTWo0kRpnngS4d3g4\x43U5WSRuUmx\x42\x63i\x2b0r//L/YuIUg\x61wGvMW8JIgk\x42X\x63Gt\x41\x43ELUlYMVw9Q5iXGh\x63J\x43K1L5yn0\x61pGMti\x42p5WpFpTQmQx\x41jUg\x42/31yO3Wg4D9FY6Y\x61sq\x61Oez5Mo6MeoEDr5w\x43m2KDy\x43vq2\x42\x61hH7YPeShgWkKmJpGd\x61YpiiZqeKr2tviNXlNIN6h\x41ML5oeoTQ\x41s\x62zE\x61niEdXFpriGTPfoRe73HHxurD\x62DWP0OLLN6u\x622R2r0jZon8TiqSoF\x63GYVnyfkk3ljn\x62\x42\x42R\x63/R\x61V1yp\x6398zQ8Vl34KpYk3\x2b3g1FGSyhTKwdTTODyMmj4oi5Qm\x42de\x2bsjftt75De6LM\x613jXqjv8wz2Z/z25\x43k7qDQ8LP//f7vw6X\x63wf0eHlE7dG\x43f75XO/wjOIxP5lvf2\x2bZ/DPd\x43IymQquktUK\x41DwT\x63eonoYmVw9Zd4ZUN0xzjd\x6196Q2HSZiUHlI1\x2bUoGR6VYHzeuF\x43ZW5QptHOtIip\x63uJsjJJwy6KKQ\x42rH66RWZ\x63D1Z1wlgj\x2blSTSkPGswv0XMn86VL4\x438\x62Ft\x41\x61kXsXnunn\x43XQ\x63v21\x62udY9m\x43Phg\x420\x43qsTp7455OJxokdM/ituDI\x41\x63SXKuUSKzygMozdTV\x2bjPnsX02eXUGn8l\x42PhhS\x41lJ3OmnOZ\x43Pok\x41ytTsGzRig\x41j4If\x43EYiS4KDRYlQyq7/3WP8MyiDG\x41onXSvRT0m6exUUt23JWdefOQj1wJ1Vf9/LzoPd\x2biuNMTEGv\x2bufjr70M2\x633wz6JwFxyJS311uP\x61I\x43kYdnjv7Hxz903skfFEfzwkEpIZH4jHXP8/5X\x623fP/dt9\x2b/912//HHveQ5Kx\x63OuestuE\x62/91hofPf2zP\x63pF\x2bzHYvjO\x2b\x2bD3j/P4w7HeyhG/H97T4l7uVgf/\x41PefEJ9z\x2b129/3\x62wn8wfRO/kTGRlFTmQSSmV1U5\x61rK\x62DKYQgkQmRs7L\x63\x2b27fJ3/Tx6\x43JQghwoG\x410EQ\x63r1XyyttJyeokZVSvL7\x43gIRsgds2l61nmD8vV9yt\x2boILS\x62\x62X292OtUu0\x61\x42wJe0m4S2F\x41tEu0e\x42wJe0m3SGG\x41t0t0i\x42wJe0m2SWG\x41tkt0m\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
+  data-authenticated-account>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="keywords" content="rokokbet, rokokbettoto, rokokbetslot, situs toto,situs togel" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="https://msmgroup.com.ng/">
+  <meta charset="utf-8" />
+  <title>ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD</title>
+  <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+  <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/GhTgTF7b/rokokbet-icon.png" />
+  <link rel="amphtml" href="https://pub-5127c98c3f1240f48f4b2504d2aefcc5.r2.dev/ampmsmgroup.html" />
+  <link rel="canonical" href="https://msmgroup.com.ng/" />
+  <meta property="og:site_name" content="ROKOKBET" />
+  <meta property="og:title"
+    content="ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD" />
+  <meta property="og:url" content="https://msmgroup.com.ng/" />
+  <meta property="og:type" content="product" />
+  <meta property="og:description"
+    content="ROKOKBET sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan" />
+  <meta property="og:image"
+    content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg" />
+  <meta property="og:image:width" content="840" />
+  <meta property="og:image:height" content="480" />
+  <meta property="product:price:amount" content="77777.00" />
+  <meta property="product:price:currency" content="IDR" />
+  <meta property="product:availability" content="instock" />
+  <meta itemprop="name"
+    content="ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD" />
+  <meta itemprop="url" content="https://msmgroup.com.ng/" />
+  <meta itemprop="description"
+    content="ROKOKBET sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan" />
+  <meta itemprop="thumbnailUrl"
+    content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg" />
+  <link rel="image_src"
+    href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg" />
+  <meta itemprop="image"
+    content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg" />
+  <meta name="twitter:title"
+    content="ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD" />
+  <meta name="twitter:image"
+    content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg" />
+  <meta name="twitter:url" content="https://msmgroup.com.ng/" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description"
+    content="ROKOKBET sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan" />
+  <meta name="description" content="ROKOKBET sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan" />
+  <link rel="preconnect" href="https://images.squarespace-cdn.com">
+  <script type="text/javascript"
+    src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
+  <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+  <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule"
+    src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+  <script type="text/javascript" crossorigin="anonymous" defer="defer"
+    src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+  <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+  
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
 
-?>
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+ 
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
 
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define( 'WP_USE_THEMES', true );
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
 
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+ 
+  <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+  <link rel="stylesheet" type="text/css"
+    href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+  <script
+    data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "ROKOKBET", "fullSiteTitle": "ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD \u2014 ROKOKBET", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://i.postimg.cc/1zsvdL9z/rokokbet-new.png", "authenticUrl": "https://msmgroup.com.ng/", "internalUrl": "https://msmgroup.com.ng/", "baseUrl": "https://msmgroup.com.ng/", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs toto togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs toto togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 88888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+  <script
+    type="application/ld+json">{"url":"https://msmgroup.com.ng/","name":"ROKOKBET","description":"","image":"https://i.postimg.cc/1zsvdL9z/rokokbet-new.png","@context":"http://schema.org","@type":"WebSite"}</script>
+  <script
+    type="application/ld+json">{"name":"ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD \u2014 ROKOKBET","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg","description":"ROKOKBET sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan","brand":"ROKOKBET","offers":{"price":88888.00,"priceCurrency":"IDR","url":"https://msmgroup.com.ng/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+  <link rel="stylesheet" type="text/css"
+    href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
+  <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+  <!-- End of Squarespace Headers -->
+        <style>
+          @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+            .header-blur-background {}
+          }
+          .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
+    width: auto;
+    height: auto;
+}
+.tweak-fixed-header .header .header-announcement-bar-wrapper {
+
+    background: linear-gradient(89.87deg, #3e2702.41%, #3e2702 121.72%);
+}
+.collection-type-products .ProductItem-details h1.ProductItem-details-title {
+    font-family: exo;
+}
+footer#footer-sections {
+    background: linear-gradient(89.87deg, #3e2702 35.41%, #3e2702 121.72%);
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.products.collection-content-wrapper {
+    padding-bottom: 0vw;
+}
+.ProductItem {
+    padding-bottom: 0vw;
+}
+.header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
+    color: white;
+}
+.n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
+	}
+	.n-columns-2 a {
+    text-align: center;
+	}
+	.login, .register {
+    color: #fff;
+    padding: 13px 10px;
+	}
+	.login, .login-button {
+    background: linear-gradient(to bottom, #ddac56 0%, #cbb158 100%);
+    border: 3px solid #3e2702 ;
+    box-shadow: 0px 0px 3px #ffffff ;
+	}
+	.register, .register-button {
+    background: linear-gradient(to bottom, #ddac56 0%, #cbb158 100%);
+    border: 3px solid #3e2702 ;
+    box-shadow: 0px 0px 3px #ffffff ;
+	}
+        </style>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "ROKOKBET",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "8899888"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "IDR"
+    }
+  }
+	</script>
+</head>
+
+<body id="item-65fd0fc7db01f63c712f258e" class="
+      primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
+        show-pdp-product-add-ons
+    " data-description="plp-mobile-editor-column" tabindex="-1">
+  <div id="siteWrapper" class="clearfix site-wrapper">
+    <header data-test="header" id="header" class="
+      header theme-col--primary
+    " data-section-theme="" data-controller="Header" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0}
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0},
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="header" data-header-theme=""
+      data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
+                                                            &quot;enabled&quot;: false,
+                                                            &quot;iconEnabled&quot;: false,
+                                                            &quot;iconType&quot;: &quot;globe&quot;,
+                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                            &quot;languageFlags&quot;: [ ]
+                                                          }" data-first-focusable-element tabindex="-1" style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    ">
+
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <div class="header-announcement-bar-wrapper">
+
+        <a href="#page" class="header-skip-link sqs-button-element--primary">
+          Skip to Content
+        </a>
+
+
+
+
+        <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true"
+          data-header-border="false" data-test="header-border" style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"></div>
+        <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true"
+          data-header-dropshadow="false" data-test="header-dropshadow" style="
+
+
+  
+"></div>
+
+
+
+        <div class='header-inner container--fluid
+        
+          header-layout--with-commerce
+        
+        
+        
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
+        
+        
+        
+        
+        
+         header-layout-branding-center
+        
+        
+        
+        
+        
+        ' style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+" data-test="header-inner">
+          <!-- Background -->
+          <div class="header-background theme-bg--primary"></div>
+
+          <div class="header-display-desktop" data-content-field="site-title">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+            </style>
+
+            <!-- Burger -->
+            <div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+              <button class="header-burger-btn burger" data-test="header-burger">
+                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                <div class="burger-box">
+                  <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                    <div class="top-bun"></div>
+                    <div class="patty"></div>
+                    <div class="bottom-bun"></div>
+                  </div>
+                </div>
+              </button>
+            </div>
+
+
+            <!-- Social -->
+
+
+
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+
+
+
+
+
+
+              <!-- Nav -->
+              <div class="header-nav">
+                <div class="header-nav-wrapper">
+                  <nav class="header-nav-list">
+
+                  </nav>
+                </div>
+              </div>
+
+
+              <!-- Title -->
+
+              <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+
+                <div class="header-title-logo">
+                  <a href="https://msmgroup.com.ng/" data-animation-role="header-element">
+
+                    <img elementtiming="nbf-header-logo-desktop"
+                      src="https://i.postimg.cc/1zsvdL9z/rokokbet-new.png?format=1500w"
+                      alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      data-loader="raw">
+
+                  </a>
+                </div>
+
+
+
+              </div>
+
+
+
+            </div>
+
+
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              <div class="showOnMobile">
+
+              </div>
+
+
+              <div class="showOnDesktop">
+              </div>
+
+            </div>
+
+          </div>
+          <div class="header-display-mobile" data-content-field="site-title">
+
+            <!-- Social -->
+
+            <style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+			  .header-title-logo a{
+        max-height: 7rem !important;
+    }
+    .header-title-logo img {
+    max-height: 7rem !important;
+}
+            </style>
+
+            <!-- Burger -->
+            <div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+  no-actions
+  
+" data-animation-role="header-element">
+              <button class="header-burger-btn burger" data-test="header-burger">
+                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                <div class="burger-box">
+                  <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                    <div class="top-bun"></div>
+                    <div class="patty"></div>
+                    <div class="bottom-bun"></div>
+                  </div>
+                </div>
+              </button>
+            </div>
+
+
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+
+              <!-- Nav -->
+              <div class="header-nav">
+                <div class="header-nav-wrapper">
+                  <nav class="header-nav-list">
+
+                  </nav>
+                </div>
+              </div>
+              <!-- Title -->
+
+              <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+
+                <div class="header-title-logo">
+                  <a href="/" data-animation-role="header-element">
+
+                    <img elementtiming="nbf-header-logo-desktop"
+                      src="https://i.postimg.cc/1zsvdL9z/rokokbet-new.png?format=1500w"
+                      alt="ROKOKBET" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      data-loader="raw">
+
+                  </a>
+                </div>
+
+
+
+              </div>
+
+
+
+            </div>
+
+
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+
+              <div class="showOnMobile">
+
+              </div>
+
+
+              <div class="showOnDesktop">
+
+                <div class="header-actions-action header-actions-action--cart">
+                  <a href="#"
+                    class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+                    <span class="Cart-inner">
+
+                      <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+                        <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+                        <path
+                          d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+                        <path
+                          d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+                      </svg>
+
+                      <div class="icon-cart-quantity">
+
+                        <span class="cart-quantity-container">
+
+                          <span class="sqs-cart-quantity">0</span>
+
+                        </span>
+
+                      </div>
+                    </span>
+                  </a>
+                </div>
+
+
+
+
+
+
+              </div>
+
+
+            </div>
+
+
+
+          </div>
+        </div>
+      </div>
+      <!-- (Mobile) Menu Navigation -->
+      <div class="header-menu header-menu--folder-list
+      
+      " data-section-theme="" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0}
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0},
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0
+                                                              },
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="overlay-nav"
+        data-show-account-login="false" data-test="header-menu">
+        <div class="header-menu-bg theme-bg--primary"></div>
+        <div class="header-menu-nav">
+          <nav class="header-menu-nav-list">
+            <div data-folder="root" class="header-menu-nav-folder">
+              <div class="header-menu-nav-folder-content">
+                <!-- Menu Navigation -->
+                <div class="header-menu-nav-wrapper">
+
+                </div>
+
+
+              </div>
+
+
+
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main id="page" class="container" role="main">
+
+
+      <article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
+
+        <section data-test="page-section" data-section-theme="" class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    ' data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
+                                                            &quot;imageOverlayOpacity&quot;: 0.15,
+                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                            &quot;customSectionHeight&quot;: 10,
+                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                            &quot;customContentWidth&quot;: 50,
+                                                            &quot;backgroundColor&quot;: &quot;&quot;,
+                                                            &quot;sectionTheme&quot;: &quot;&quot;,
+                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                            &quot;backgroundMode&quot;: &quot;image&quot;
+                                                          }" data-current-context="{
+                                                            &quot;video&quot;: null,
+                                                            &quot;backgroundImageId&quot;: null,
+                                                            &quot;backgroundMediaEffect&quot;: null,
+                                                            &quot;divider&quot;: null,
+                                                            &quot;typeName&quot;: &quot;products&quot;
+                                                          }" data-animation="none">
+          <div class="section-border">
+            <div class="section-background">
+
+
+
+            </div>
+          </div>
+          <div class='content-wrapper' style='
+      
+      
+    '>
+            <div class="content">
+
+              <div class="n-columns-2">
+                <a href="https://pub-5127c98c3f1240f48f4b2504d2aefcc5.r2.dev/ampmsmgroup.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://pub-5127c98c3f1240f48f4b2504d2aefcc5.r2.dev/ampmsmgroup.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                </div>
+
+
+
+
+
+              <section id="pdp" class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  ">
+
+
+                <article
+                  class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item"
+                  data-item-id="65fd0fc7db01f63c712f258e">
+
+                  <nav class="ProductItem-nav">
+                    <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+                      <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
+                      <span class="ProductItem-nav-breadcrumb-separator"></span>
+                      <a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link">ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD</a>
+                    </div>
+
+
+
+                  </nav>
+
+
+                  <section class="ProductItem-summary" data-controller="ProductGallery">
+                    <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+
+
+                      <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+
+
+
+                        <div class="ProductItem-gallery-slides-item" data-slide-index="1"
+                          data-image-id=65fd0fd62438744c9a05c86b data-controller="ImageZoom" data-slide-url="zeus"
+                          data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                          <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                            class="ProductItem-gallery-slides-item-1" data-load="false"
+                            data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                            data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                            data-image-dimensions="600x338" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                            elementtiming="nbf-products-gallery" />
+                          <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
+                            style="display: none;">
+                            Image 1 of
+                          </span>
+                          <div class="product-image-zoom-duplicate" aria-hidden="true">
+                            <img data-load="false"
+                              data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                              data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                              data-image-dimensions="600x338" data-image-focal-point="0.5,0.5" alt="ROKOKBET"
+                              elementtiming="nbf-products-gallery-zoom" />
+                          </div>
+                        </div>
+
+
+
+                        <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true"
+                          data-controller="Lightbox">
+                          <div class="gallery-lightbox " data-section-theme="">
+                            <div class="gallery-lightbox-background"></div>
+
+                            <div class="gallery-lightbox-header">
+                              <button class="gallery-lightbox-close-btn" aria-label="Close" data-close
+                                data-test="gallery-lightbox-close">
+                                <div class="gallery-lightbox-close-btn-icon">
+                                  <svg viewBox="0 0 40 40">
+                                    <path d="M4.3,35.7L35.7,4.3" />
+                                    <path d="M4.3,4.3l31.4,31.4" />
+                                  </svg>
+                                </div>
+                              </button>
+                            </div>
+
+
+                            <div class="gallery-lightbox-wrapper">
+                              <div class="gallery-lightbox-list">
+
+                                <figure class="gallery-lightbox-item" data-slide-url="zeus">
+                                  <div class="gallery-lightbox-item-wrapper">
+                                    <div class="gallery-lightbox-item-src">
+                                      <div class="gallery-lightbox-item-img content-fit">
+                                        <img
+                                          data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                                          data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5ra8kwJXBSyhsq18NCfkoEHQy9pSNveyW34s8uxcp57ijf1r7ABkr0wKwxajcfs2gHJqhHhDPSiZAzNjkOLbSYfRBUBAj8oGXYbF3g1cDtEOlPXJsV3X3d2SvnI7gBiCGQvqucEhQ2CJ4zllzLBNvyXCVxGVX1iLPst7RsiQCfFTOihdCBp3ehbW4rWz/s800/rokokbet13.jpg"
+                                          data-image-dimensions="600x338" data-image-focal-point="0.5,0.5"
+                                          alt="ROKOKBET" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                    </div>
+                                  </div>
+                                </figure>
+
+                              </div>
+
+                              <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+                                <div class="gallery-lightbox-control" data-previous
+                                  data-test="gallery-lightbox-control-previous">
+                                  <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+                                    <div class="gallery-lightbox-control-btn-icon">
+                                      <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+                                        <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+                                      </svg>
+                                    </div>
+                                  </button>
+                                </div>
+                                <div class="gallery-lightbox-control" data-next
+                                  data-test="gallery-lightbox-control-next">
+                                  <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+                                    <div class="gallery-lightbox-control-btn-icon">
+                                      <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+                                        <polyline fill="none" stroke-miterlimit="10"
+                                          points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+                                      </svg>
+                                    </div>
+                                  </button>
+                                </div>
+                              </div>
+
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                    </section>
+
+                    <section class="
+    product-details
+    ProductItem-details
+  " data-test="pdp-details">
+                      <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+                        ROKOKBET SEBAGAI BO TOTO TERPOPULER DI INDONESIA ANTI RUNGKAD
+                      </h1>
+                      <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+
+                        <div class="ProductItem-product-price" data-animation-role="content">
+
+
+
+                          <div class="product-price">
+                            IDR 10.000,00
+                          </div>
+
+
+
+                          <div data-afterpay="true" data-current-context="{
+                                                            &quot;65fd0fc7db01f63c712f258e&quot;: {
+                                                              &quot;scarcityEnabled&quot;: false,
+                                                              &quot;scarcityShownByDefault&quot;: false,
+                                                              &quot;afterPayAvailable&quot;: false,
+                                                              &quot;klarnaAvailable&quot;: false,
+                                                              &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                              &quot;afterPayMin&quot;: 0,
+                                                              &quot;afterPayMax&quot;: 0,
+                                                              &quot;klarnaMin&quot;: 0,
+                                                              &quot;klarnaMax&quot;: 0,
+                                                              &quot;mailingListSignUpEnabled&quot;: false,
+                                                              &quot;mailingListOptInByDefault&quot;: false
+                                                            }
+                                                          }"></div>
+                          <div class="pdp-overlay"></div>
+
+                        </div>
+
+                        <div class="ProductItem-details-excerpt" data-content-field="excerpt">
+                        <p><a href="https://msmgroup.com.ng/">ROKOKBET</a>&nbsp;sebagai bo toto terpopuler di Indonesia yang akan memberikan banyak bantuan kepada seluruh para pemain dan bantuan tersebut tentunya akan sangat membantu seluruh para pecinta permainan togel sebuah kemenangan, maka itu jika anda sebagai pecinta permainan togel yang ingin memperoleh sebuah kemenangan dengan mudah dapat bermain didalam agen terpercaya kami sekarang juga.</p>
+                        <p>ROKOKBET akan menyediakan banyak bocoran kepada seluruh para pemain dan bocoran tersebut sudah terverifikasi terpercaya. Bocoran tersebut diperoleh berdasarkan hasil kemenangan para pemain yang memperoleh sebuah kemenangan, maka itu segera bermain dan bergabung dengan situs terpercaya kami agar memperoleh banyak bantuan yang dapat membantu untuk memperoleh sebuah kemenangan.</p>
+                        <p>ROKOKBET juga memberikan banyak penawaran menarik seperti bonus maupun promo yang dapat dimainkan oleh seluruh para pemain ketika bermain didalam bo terpercaya kami. Beberapa promo yang akan diperoleh seluruh para pemain seperti bonus new member, bonus deposit setiap hari hingga bonus ketika memperoleh kekalahan.</p>
+</div>
+    
+                        </div>
+
+                        <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
+                          data-animation-role="content">
+                          <div class="quantity-label">Quantity:</div>
+                          <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number"
+                            step="1"></input>
+                        </div>
+
+                        <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+                          <a><div
+                            class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary "
+                            role="button" tabindex="0" data-dynamic-strings
+                            data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e"
+                            data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+                            <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+                          </div></a>
+                        </div>
+
+                      </div>
+                    </section>
+
+                  </section>
+                </article>
+              </section>
+            </div>
+
+          </div>
+        </section>
+      </article>
+    </main>
+    <script type="text/javascript">
+      const firstSection = document.querySelector('.page-section');
+      const header = document.querySelector('.header');
+      const mobileOverlayNav = document.querySelector('.header-menu');
+      const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+      const headerHeight = header ? header.getBoundingClientRect().height : 0;
+      const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+      const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+      const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+      if (firstSection) {
+        firstSection.style.paddingTop = headerHeight + 'px';
+      }
+      if (sectionBackground && isLayoutEngineSection) {
+        if (isFirstSectionInset) {
+          sectionBackground.style.top = headerHeight + 'px';
+        } else {
+          sectionBackground.style.top = '';
+        }
+      }
+      //# sourceURL=headerPositioning.js
+    </script>
+
+
+    <footer class="sections" id="footer-sections" data-footer-sections>
+<small class="copyright__content"><a href="https://msmgroup.com.ng/" title="SITUS TOTO MACAU">Copyright ©2024</a></small>
+
+    </footer>
+
+
+  </div>
+
+  <script defer="defer"
+    src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js"
+    type="text/javascript"></script>
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+    <symbol id="facebook-icon" viewBox="0 0 64 64">
+      <path
+        d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+    </symbol>
+    <symbol id="facebook-mask" viewBox="0 0 64 64">
+      <path
+        d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+    </symbol>
+    <symbol id="instagram-icon" viewBox="0 0 64 64">
+      <path
+        d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
+    </symbol>
+    <symbol id="instagram-mask" viewBox="0 0 64 64">
+      <path
+        d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
+    </symbol>
+    <symbol id="twitter-icon" viewBox="0 0 64 64">
+      <path
+        d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
+    </symbol>
+    <symbol id="twitter-mask" viewBox="0 0 64 64">
+      <path
+        d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+    </symbol>
+  </svg>
+
+</body>
+</html>
